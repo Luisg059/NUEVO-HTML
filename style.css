@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.form-register {
+    width: 400px;
+    background: #007A90;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: white;
+}
+.controls {
+    width: 100%;
+    background: black;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #007A90;
+    margin-bottom: 16px;
+    font-family: arial;
+    font-size: 15px;
+}
+.form-register p {
+    height: 40px;
+    text-align:  center;
+    font-size: 18px;
+}
